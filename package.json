@@ -29,7 +29,7 @@
     "event-source-polyfill": "^1.0.31",
     "lodash": "^4.17.21",
     "nprogress": "^0.2.0",
-    "pinia": "^2.1.7",
+    "pinia": "^2.2.5",
     "pinia-plugin-persistedstate": "^3.2.0",
     "postcss": "^8.4.41",
     "psl": "^1.9.0",
